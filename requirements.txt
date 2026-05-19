@@ -1,4 +1,4 @@
-streamlit==1.37.1
+streamlit
 langchain
 langchain-community
 langchain-groq
@@ -6,4 +6,3 @@ langchain-huggingface
 chromadb
 langchain-chroma
 python-dotenv
-protobuf==4.25.3
