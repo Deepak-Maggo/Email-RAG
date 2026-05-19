@@ -1,0 +1,7 @@
+NOC structure is as below regarding custom noc or request regarding noc from landlord to member
+Landlord's NOC:
+The landlord does not issue individual NOCs for each member but instead provides a single, generic NOC that applies to all WeWork members occupying space within the building. This is a standard practice to streamline the process and eliminate redundancy. This NOC covers all WeWork members, regardless of whether they occupy a physical office space or use the virtual office services, and is used as the foundational document for any registration purposes that may require an NOC from the landlord.
+WeWork’s NOC to Members:
+In addition to the landlord’s NOC, WeWork issues a specific NOC directly to each of its members. This NOC is issued on a per-member basis and verifies the membership of the individual or entity in question, ensuring they are authorized to use the office space (or virtual office services) under the terms agreed with WeWork. This document serves as confirmation from WeWork to the member regarding their occupancy rights or services.
+WeWork’s Board Resolution:
+Finally, WeWork provides a Board Resolution which serves to formally confirm the legitimacy of the WeWork entity and the relationship with each individual member. This resolution is provided to all members and further strengthens the documentation by confirming the governance of WeWork and its legal capacity to provide such spaces and services to its members.

@@ -1,0 +1,8 @@
+why are there black patches or redacted portions in lease deed or master agreemnt and remove them or share original explanation below 
+"""We would like to inform you that certain portions of the master agreement are redacted as they contain confidential information. As per policy, we are unable to remove or modify these redactions.
+
+Please note that all the information required for your company incorporation and GST registration is already available within the master agreement. This document is provided in a standard format and is shared uniformly with all our members, and it has been successfully accepted for similar compliances in the past.
+
+As your membership is with WeWork, you already have the client agreement with you. This document is being shared only as a supporting document, with all the necessary details visible while certain confidential parts have been hidden.
+
+We request you to kindly proceed using the same. Please feel free to reach out if you need any further clarification."""

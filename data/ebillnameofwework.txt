@@ -1,0 +1,7 @@
+why ebill not in name of wework the below explanation
+
+The structure is such that WeWork has a lease agreement with the landlord, and we provide the lease deed along with the NOC for the same as supporting documets.
+
+Clients are issued membership agreements from WeWork under this arrangement, as WeWork holds the rights to the property under the lease. This is how the overall structure is defined and implemented.
+
+Further, the electricity bill is issued by the government authority in the name of the landlord only, and therefore it is not issued in the name of WeWork.

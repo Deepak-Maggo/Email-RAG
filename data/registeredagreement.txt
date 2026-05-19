@@ -1,0 +1,5 @@
+
+We would like to inform you that while updating details on the GST portal, if you select or mention "Rented / leased office", the GST officer may request documents such as a registered rent agreement or a leave & license agreement.
+However, such documents cannot be provided in this case, as WeWork operates on a service-based model and does not rent out space.
+Therefore, we request you to kindly select the option "Sharing space" on the GST portal to avoid any issues during the verification process.You must select "Shared" as the nature of possession and provide a sublet agreement, virtual office, or NOC from the provider
+
