@@ -6,3 +6,4 @@ langchain-huggingface
 chromadb
 langchain-chroma
 python-dotenv
+protobuf<5.0.0
