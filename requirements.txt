@@ -6,5 +6,6 @@ langchain-huggingface
 chromadb
 langchain-chroma
 python-dotenv
+protobuf
 sentence-transformers
 torch
