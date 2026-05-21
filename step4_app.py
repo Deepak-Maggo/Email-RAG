@@ -85,7 +85,7 @@ if st.button("Generate Email"):
             {user_request}
 
             INSTRUCTIONS:
-            1. Draft a consise professional email based on the USER REQUEST.
+            1. Draft a consise professional reply email to the USER REQUEST as a customer support agent would.
             2. facts and arguments from the KNOWLEDGE BASE can be used to answer if found relevant do not blindly trust those templates.
             3. CRITICAL: Do not just blindly copy-paste. Weave the information naturally into the email.
             """
